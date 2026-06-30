@@ -1,0 +1,14 @@
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
